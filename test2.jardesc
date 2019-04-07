@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Misaka/Desktop/Calculator.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Calculator_test/test2.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=Calculator_test/src&lt;test{Calculator.java[Calculator" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=Calculator_test/image"/>
+        <javaElement handleIdentifier="=Calculator_test/src"/>
+        <file path="/Calculator_test/.project"/>
+        <file path="/Calculator_test/.classpath"/>
+    </selectedElements>
+</jardesc>
